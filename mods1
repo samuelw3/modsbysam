@@ -1,1 +1,28 @@
-test list1
+adList = {
+    --[[Ion Samuelw3]]
+    "https://steamuserimages-a.akamaihd.net/ugc/794244274616466541/1995EBE0B14C425BF16D162C229EEE3F70A9BFD3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Pax Emancipation
+    "https://steamuserimages-a.akamaihd.net/ugc/1769332113170038586/44E852638B97AB065A1633FA16B1D5C5C5B7CBAB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Pax Porfiriana
+    "https://steamuserimages-a.akamaihd.net/ugc/1638702955276736953/75CB04C48AC724FFA2F0649F932B26EA88779FC1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Pax Renaissance 2e
+    "https://steamuserimages-a.akamaihd.net/ugc/796493539618518540/00E6EB866D296D8061D3CB8B424FAAF058DDD87D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Pax Transhumanity
+    "https://steamuserimages-a.akamaihd.net/ugc/1483325459409675782/BA8F0AC196F6E09EF8DE57DC8BB61844B49A26ED/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Pax Viking
+    "https://steamuserimages-a.akamaihd.net/ugc/1702912723524272063/6B9429863450F7D968CB517E962B207813CB1B8A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Bios Genesis
+    "https://steamuserimages-a.akamaihd.net/ugc/1191713157502249885/73C5A263314992D2349C13355163A27195DB329A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Bios Megafauna
+    "https://steamuserimages-a.akamaihd.net/ugc/1818868999002154990/0B6E5EA6B024B027B83A01AB90711DF25F5B8713/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Bios Meso/Megafauna
+    "https://steamuserimages-a.akamaihd.net/ugc/1558765826183505512/A91BAA3C8894E7A42C92E91BE884CBE30F4811DA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Bios Mesofauna
+    "https://steamuserimages-a.akamaihd.net/ugc/1702911348385623730/DABD83917E3FE8A4E43619098950CEB658791419/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Bios Origins 2e
+    "https://steamuserimages-a.akamaihd.net/ugc/1018322170299976198/BF08B553BEBFBA45942F4939943146F2E0D336B9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --High Frontier
+
+    "https://steamuserimages-a.akamaihd.net/ugc/1750185254114774953/F99C30CB51ECC2A18189481F67C0E8D5806F4327/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Galenus
+    "https://steamuserimages-a.akamaihd.net/ugc/1764818744295721149/39044C17AB70E85BC51ED25DAE974C861AAAAB7D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Dawn on Titan
+    "https://steamuserimages-a.akamaihd.net/ugc/1764819254179551859/D3AAA3E195F48B45086CA6AA0B698B462C424018/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --StegegetS
+    "https://steamuserimages-a.akamaihd.net/ugc/1801997809642352714/ED1E4FBC0874A640D9CD2412C86C194F6B97619D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Sammu-ramat
+    "https://steamuserimages-a.akamaihd.net/ugc/1801997809642593262/BE8602A32345369DD8B2247FC95379704DE13C41/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Derrocar
+    "https://steamuserimages-a.akamaihd.net/ugc/1699529003968658933/60F710E3E360ED256DC9C9CE86AC02740A00339C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Stationfall Official Scripted
+    "https://steamuserimages-a.akamaihd.net/ugc/1691652853543018520/FBFD45F71E7649173EDEF63572690B58D72CDD4D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --HIRÞ
+
+    "https://steamuserimages-a.akamaihd.net/ugc/1965287613407518731/624C5661FB670B37FAB8926D26CD6C61E2C189FA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Pax Hispanica
+    "https://steamuserimages-a.akamaihd.net/ugc/1922499986448471255/979364834FDF95A452B35C534EA587BE8C341CDD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Pax Viking Junior
+    "https://steamuserimages-a.akamaihd.net/ugc/1824530631136930602/9AEB34A25D79F70D0573A40B16B1EE213A1DF9E4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Fluffy Frontier
+    "https://steamuserimages-a.akamaihd.net/ugc/1732217195776499370/4C7636C96DA135D94AB5986A6DA91E674425DA45/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Vendel to Viking
+    "https://steamuserimages-a.akamaihd.net/ugc/1753582113774259435/E12EC95C048D11645B7F2C5986C0B5341BFA1B16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", --Interstellar
+}
